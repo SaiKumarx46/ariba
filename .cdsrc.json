@@ -1,0 +1,20 @@
+{
+    "odata": {
+      "flavor": "x4"
+    },
+    "requires": {
+      "ariba": {
+        "kind": "rest",
+        "credentials": {
+          "url": "https://b2a369b5trial.it-cpitrial05-rt.cfapps.us10-001.hana.ondemand.com/http",
+          "authentication": "BasicAuthentication",
+          "username": "sb-7bc34e0a-1c8b-4e29-abd7-41a93085740f!b282620|it-rt-b2a369b5trial!b26655",
+          "password": "45ffef1e-bae7-4477-a271-6046370c183c$7WM1sAX9ZcAcVB4tZeTNpNIx5V8eA4ODJKrx4ZCo7bU=",
+          "headers": {
+            "url": "",
+            "querey": ""
+          }
+        }
+      }
+    }
+  }
